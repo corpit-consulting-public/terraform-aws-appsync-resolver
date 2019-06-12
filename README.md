@@ -1,4 +1,3 @@
-
 # tf-aws-appsync-resolver
 
 Terraform module that creates AppSync-Resolver resources in AWS
